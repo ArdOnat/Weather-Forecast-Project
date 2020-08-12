@@ -1,6 +1,6 @@
 # Weather-Forecast-Project
 
-An iOS appli that displays the weather conditions of the location you want.
+An iOS application that displays the weather conditions of the location you want.
 
 # What I Learned
 
